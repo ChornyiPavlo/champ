@@ -1,0 +1,6 @@
+User-Agent: *
+Disallow:
+
+
+Sitemap: http://aviator.champions-world-kz.com/sitemap.xml
+Host: aviator.champions-world-kz.com
